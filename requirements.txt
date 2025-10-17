@@ -1,0 +1,15 @@
+annotated-types==0.7.0
+cytoolz==1.0.1
+eth-hash==0.7.1
+eth-typing==5.2.1
+eth-utils==5.3.1
+eth_abi==5.2.0
+hypersync==0.8.5
+parsimonious==0.10.0
+pydantic==2.12.2
+pydantic_core==2.41.4
+regex==2025.9.18
+StrEnum==0.4.15
+toolz==1.1.0
+typing-inspection==0.4.2
+typing_extensions==4.15.0
